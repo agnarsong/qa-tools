@@ -1,0 +1,11 @@
+*.log
+*.csv
+*.xlsx
+
+logs
+logs/*
+
+*/__pycache__
+*/__pycache__/*
+
+img
